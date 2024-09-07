@@ -1,6 +1,6 @@
 # About me 👋
 
-My name is Anirudh Ramkumar, and I'm a (rising) sophomore at the New Jersey Institute of Technology's Ying Wu College of Computing!
+My name is Anirudh Ramkumar, and I'm a sophomore at the New Jersey Institute of Technology's Ying Wu College of Computing!
 
 ## 🔭 I’m currently working on
 - [SimpleDex](https://github.com/NinjaHawk2014/SimpleDex-Calculator)
